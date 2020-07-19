@@ -11,7 +11,7 @@
 </ol>
 
 <h3>Themes</h3>
-<ol> <li> <h4> 3 split pwsh, cmd and ubuntu </h4> <p>Requirements: New powershell<a href="https://github.com/microsoft/terminal/releases"> Download </a><br><br> <img src="readme_files/1.jpg" width=100%> </li> </ol>
+<ol> <li> <h4> 3 split pwsh, cmd and ubuntu </h4> <p>Requirements: New powershell<a href="https://github.com/microsoft/terminal/releases"> Download </a><br><br> <img src="readme_files/1.png" width=100%> </li> </ol>
 <h3> Updates </h3>
 <h4> July 19, 2020 </h4>
 <p> I just added my first theme, 3 split pwsh, cmd and ubuntu with customized color scehems </p>
