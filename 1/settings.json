@@ -154,11 +154,11 @@
                 "action": "copy",
                 "singleLine": false
             },
-            "keys": "ctrl+c"
+            "keys": "ctrl+shift+c"
         },
         {
             "command": "paste",
-            "keys": "ctrl+v"
+            "keys": "ctrl+shift+v"
         },
         // Press Ctrl+Shift+F to open the search box
         {
@@ -172,10 +172,18 @@
         {
             "command": {
                 "action": "splitPane",
-                "split": "auto",
+                "split": "vertical",
                 "splitMode": "duplicate"
             },
-            "keys": "alt+shift+d"
+            "keys": "ctrl+shift+a"
+        },
+        {
+            "command": {
+                "action": "splitPane",
+                "split": "horizontal",
+                "splitMode": "duplicate"
+            },
+            "keys": "ctrl+shift+s"
         }
     ]
 }
