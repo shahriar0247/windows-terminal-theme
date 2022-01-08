@@ -26,11 +26,12 @@
 </ol>
 
 <h3>My $PROFILE</h3>
+
 ```
 Import-Module oh-my-posh
 oh-my-posh --init --shell pwsh --config ~/fancy_frost.omp.json | Invoke-Expression
-
 Import-Module Terminal-Icons
 ```
+
 <h3>Preview</h3>
 ![image](https://user-images.githubusercontent.com/47810596/148651020-fef72848-f127-4f2c-b52d-5b355fb8804e.png)
